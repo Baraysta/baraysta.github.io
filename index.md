@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Instagram as a test](http://instagram.com/baraysta)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
